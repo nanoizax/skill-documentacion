@@ -1,6 +1,6 @@
 # skill-documentacion
 
-**Documentación que sale del código y de pruebas reales, no de la memoria: lo que no se ejecutó se marca como «sin verificar».**
+**Documentación que sale del código y de pruebas reales, no de la memoria: lo que no se ejecutó se marca como "sin verificar".**
 
 Una skill para que tu herramienta de desarrollo estudie un proyecto, lo levante, lo pruebe y entregue documentación técnica y un manual de usuario con capturas, marcando con honestidad lo que no pudo verificar.
 
